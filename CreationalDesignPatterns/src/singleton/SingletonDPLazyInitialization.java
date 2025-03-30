@@ -13,7 +13,7 @@ class PrimMinister{
         return pm;
     }
 }
-public class SingletonDP {
+public class SingletonDPLazyInitialization {
 
     public static void main(String[] args) {
         String string = PrimMinister.factoryMethod();
