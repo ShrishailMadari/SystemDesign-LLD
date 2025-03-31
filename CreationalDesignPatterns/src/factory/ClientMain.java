@@ -59,6 +59,5 @@ public class ClientMain {
         } catch (ShapeNotValidException e) {
             System.out.println(e.getMessage());
         }
-
     }
 }
